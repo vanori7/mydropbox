@@ -1,6 +1,13 @@
 body{
   background-color: rgb(33, 26, 26);
   margin: 0;
+  color:black;
+  margin: 0;
+  font-family: "Sharp Grotesk", sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 ,strong{
+  font-family: "Circular", sans-serif;
 }
 
 header{
@@ -30,10 +37,12 @@ header img{
 }
 
 .one{
-  background-color: rgb(33, 26, 26);
+  background-color: rgb(44, 36, 36);
   width: 100%;
+  height: 350px;
   padding: 50px; 
   color: white;
+  text-align: center;
 }
 
 .one-p1{

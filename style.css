@@ -1,7 +1,48 @@
-/*style.css*/
-
 body{
-    background-color: black;
-    color:white;
-    
+  background-color: rgb(33, 26, 26);
+  margin: 0;
 }
+
+header{
+  background-color: white;
+  max-height: 48px;
+  display:flex;
+  position:fixed;
+  width:100%;
+}
+
+header ul li{
+  display:inline;
+  margin:12px;
+}
+
+header ul li:hover{
+  background-color: rgb(253, 234, 204);
+  padding: 14px;
+}
+
+header h3{
+  margin:14px;
+}
+
+header img{
+  width: 48px;
+}
+
+.one{
+  background-color: rgb(33, 26, 26);
+  width: 100%;
+  padding: 50px; 
+  color: white;
+}
+
+.one-p1{
+  color: black;
+}
+
+.three{
+  background-color: rgb(33, 26, 26);
+  width: 100%;
+  padding: 50px;
+}
+

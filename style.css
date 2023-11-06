@@ -2,9 +2,21 @@ body{
   background-color: rgb(33, 26, 26);
   margin: 0;
   color:black;
-  margin: 0;
   font-family: "Sharp Grotesk", sans-serif;
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 h1, h2, h3, h4, h5, h6 ,strong{
   font-family: "Circular", sans-serif;
@@ -24,34 +36,122 @@ header ul li{
 }
 
 header ul li:hover{
-  background-color: rgb(253, 234, 204);
-  padding: 14px;
+  background-color: rgb(242, 211, 174);
+  padding: 11.5px 8px;
 }
 
 header h3{
   margin:14px;
 }
 
-header img{
+.button1{
+ background-color: rgb(51, 75, 216);
+ width: 115px;
+ height: 40px;
+ border: none;
+ color: white;
+}
+
+.img1{
   width: 48px;
 }
 
+.img2{
+  width: 15px;
+  height: 15px;
+  padding-top: 15px;
+  padding-left: 400px;
+  
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 .one{
-  background-color: rgb(44, 36, 36);
+  background-color:rgb(33, 26, 26);
   width: 100%;
-  height: 350px;
-  padding: 50px; 
+  height: 320px;
   color: white;
   text-align: center;
+  padding-top: 100px;
+  padding-left: 80px;
 }
 
-.one-p1{
-  color: black;
+.one-1{
+  font-size: 45px;
+  margin-left: 20%;
+  margin-right: 30%;
 }
+
+.one-2{
+  margin-left: 20%;
+  margin-right: 27%;
+  padding-right: 20px;
+}
+
+.one-3{
+  color: rgb(0, 0, 0);
+  padding-right: 120px;
+}
+
+.button2{
+ background-color: rgb(51, 75, 216);
+ width: 200px;
+ height: 70px;
+ border: none; 
+ font-size: 18px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+.two{
+  padding-left: 115px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 .three{
-  background-color: rgb(33, 26, 26);
+  background-color: rgb(55, 40, 40);
   width: 100%;
   padding: 50px;
+  display:flex;
+}
+
+.three-1{
+  text-align: center;
+  padding-left: 30%;
+  font-size: 35px;
 }
 

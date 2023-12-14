@@ -1,5 +1,5 @@
 body{
-  background-color: rgb(33, 26, 26);
+  background-color: rgb(23, 23, 23);
   margin: 0;
   color:black;
   font-family: "Sharp Grotesk", sans-serif;
@@ -64,7 +64,14 @@ header h3{
   
 }
 
+.header1{
+  font-size: 19px;
+}
 
+.list2 {
+  display: flex;
+  align-items: center;
+}
 
 
 
@@ -78,9 +85,9 @@ header h3{
 
 
 .one{
-  background-color:rgb(33, 26, 26);
+  background-color:rgb(23, 23, 23);
   width: 100%;
-  height: 320px;
+  height: 150px;
   color: white;
   text-align: center;
   padding-top: 100px;
@@ -96,12 +103,12 @@ header h3{
 .one-2{
   margin-left: 20%;
   margin-right: 27%;
-  padding-right: 20px;
+  padding-right: 40px;
 }
 
 .one-3{
   color: rgb(0, 0, 0);
-  padding-right: 120px;
+  padding-right: 150px;
 }
 
 .button2{
@@ -125,7 +132,7 @@ header h3{
 
 
 .two{
-  padding-left: 115px;
+  padding-left: 55px;
 }
 
 
